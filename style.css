@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	color: #de2bcd;
+}
+
+body {
+	background: #2be0ed;
+}
+
+div {
+	border: #ed2bcd 4px solid;
+}
+
+a {
+	color: #de2bcd;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+p {
+	font-style: italic;
+}
+
+img {
+	border-radius: 200px;
+}
